@@ -1,0 +1,82 @@
+/* navbar-background */
+*{
+    box-sizing: border-box;
+}
+nav li{
+    font-weight: bold;
+    font-size: 1.1rem;
+    color: black;
+}
+nav#navy{
+    background-color: violet;
+    color: black;
+}
+nav .udr{
+    border: 0.3px solid rgb(14, 6, 6);
+    width: 100%;
+}
+#title{
+    margin-top:15px ;
+    margin-bottom: 30px;
+}
+
+
+#card p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div.bhindi{
+    margin-bottom: 25px;
+    width: 97%;
+    padding: 15px;
+    background-color: violet;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#card1{
+ 
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+div#card2{
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+    
+   
+ 
+}
+div#card{
+    font-family: Arial, Helvetica, sans-serif;
+ 
+
+   
+  ;
+}
+.navbar-dark #navbar1 .navbar-nav .nav-link{
+    color: black;
+}
+#navy a{
+    color: black;
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+.navbar-toggler{
+    background-color: #d768db;
+}
+.navbar-dark .navbar-toggler {
+    
+    border-color: rgb(5 4 4);
+}
+#navy a.nav-link{
+    font-size: 1.4rem;
+}
+/* @media (min-width: 992px)
+{
+.col-md-4 {
+    
+    max-width: 32%;
+}
+} */
